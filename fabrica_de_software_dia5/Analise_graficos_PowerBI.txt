@@ -1,0 +1,33 @@
+-=-=- ANÁLISE DOS CASOS DA COVID-19 AO REDOR DO MUNDO -=-=-
+
+--> O objetivo dessa análise foi compreender visualmente a dinâmica da pandemia da Covid-19 ao redor do mundo e como os diferentes países
+e regiões do globo foram afetados.
+
+1 - Gráfico de Colunas - Casos Confirmados por País:
+- Neste gráfico, analisamos a soma total de todos os casos de Covid-19 em cada país;
+* Percebe-se que Estados Unidos, Brasil e India foram os países que mais sofreram com o impacto da pandemia;
+Isso se deve por conta do seu território ser muito povoado.
+
+2 - Gráfico de Área - Casos Confirmados por Região do Globo:
+- Aqui vemos um caso parecido do gráfico anterior, com a diferença de que esse está divido
+por continentes ao invés de países;
+* Nota-se que o continente Americano e o Europeu foram os que mais ficaram contaminados;
+* Já o menos afetados foram a África e a parte Pacífica Ocidental do Globo.
+
+3 - Gráfico de Barras - Proporção Curados e Mortes por País:
+- Dessa vez temos um gráfico que analisa quantas pessoas curadas tivemos em relação as que morreram devido 
+ao vírus em cada país;
+* É perceptível que em todos os países, o número de curados é muito superior ao número de mortes, o que se explica devido
+a eficiência da vacina aplicada nesses países, como Brasil, EUA, Rússia e India, os mais afetados;
+* Nota-se também que boa parte desses países que foram afetados fazem parte dos BRICS.
+
+4 - Gráfico de Rosca - Mortes por Região do Globo:
+- Por último, temos um gráfico que mostra a quantidade de óbitos em cada continente;
+* Observa-se que, novamente, o continente Americano (52,4 %) e o Europeu (32,28 %) foram os mais afetados;
+* Isso acontece pelo fato de terem sido os continentes com maiores números de casos confirmados.
+
+
+--> Conclusões e soluções:
+- Com esse análise visual, percebemos que os países mais afetados foram os mais povoados e com crescente expansão da economia;
+- Para resolver isso, foi necessário muitos estudos e pesquisas na área de saúde para desenvolver vacinas eficazes em pouco tempo e 
+distruibuir para esses países, a fim de amenizar as consequências políticas, econômicas e sociais trazidas pelo vírus da Covid-19.
