@@ -1,0 +1,25 @@
+-=-=- RELATÓRIO DE FATURAMENTO POR LOCALIZAÇÃO -=-=-
+
+--> Nessa análise de dados visual feita no PowerBI, analisei a relação entre o faturamento e a localização
+das cidades disponibilizada no banco de dados (Sydney ou Melbourne).
+
+1 - Gráfico de barras - Valor pago por Fatura/Crédito e Localização:
+- Como o próprio nome mostra, esse gráfico mostra quanto que foi pago na fatura / crédito de acordo com a localização da cidade;
+* Percebe-se que a cidade de Sydney tem uma predominância maior nas faturas do tipo "INV", enquanto Melbourne se dá melhor nas outras.
+
+2 - Gráfico de barras na horizontal - Valor Pago por Fatura / Crédito:
+- Nesse gráfico, vemos o valor total pago por cada tipo de crédito diferente;
+* Nota-se que o tipo de fatura "INV" é o que mais tem faturamento disparado, contendo 46 mil em valor das vendas.
+
+3 - Gráfico de Medidor - Valor Pago
+- Aqui temos de forma simples mostrando o valor total pago nas faturas de crédito.
+
+4 - Gráfico de Pizza - Valor Pago por Mês da Fatura
+- Com esse gráfico, percebemos que o mês de março é disparado o que mais fatura, com mais da metade do valor total, 
+seguido do mês de Abril e Fevereiro.
+
+
+--> Conclusões e soluções:
+- Com essa análise visual, notamos que o tipo de crédito que devemos focar é o "INV", pois é o que mais fatura,
+além de focar da cidade de Sydney se quisermos bons resultados;
+- Também é recomendado que se tenha um força-tarefa maior no mês de Março para ter mais faturamento de crédito.
